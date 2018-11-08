@@ -1,2 +1,2 @@
 # Miscellaneous
-This folder contains 'Miscellaneous' documents.
+This folder contains 'Miscellaneous' files.
